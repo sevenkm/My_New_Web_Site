@@ -1,0 +1,34 @@
+#Title 
+{  
+    color:skyblue;
+    border-bottom: 2.5px solid gray;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+
+#asdf
+{
+    border-right: gray solid 2.5px;
+    width: 150px;
+    height:600px;
+    float:left;
+}
+
+
+
+#descirptions 
+{
+    padding:20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+#what 
+{
+    color: goldenrod;
+    font-size: 20px;
+}
